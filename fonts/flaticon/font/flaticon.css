@@ -21,7 +21,6 @@
     src: url("./Flaticon.svg#Flaticon") format("svg");
   }
 }
-
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
 [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
   font-family: Flaticon;
@@ -30,9 +29,15 @@ font-style: normal;
 margin-left: 20px;
 }
 
-.flaticon-shopping-bag:before { content: "\f100"; }
-.flaticon-support:before { content: "\f101"; }
-.flaticon-cashback:before { content: "\f102"; }
-.flaticon-free-delivery:before { content: "\f103"; }
-.flaticon-heart:before { content: "\f104"; }
-.flaticon-visibility:before { content: "\f105"; }
+.flaticon-bolsa-de-la-compra:before {
+  content: "\f101";
+}
+.flaticon-vino:before {
+  content: "\f102";
+}
+.flaticon-jamn-serrano:before {
+  content: "\f103";
+}
+.flaticon-camion:before {
+  content: "\f104";
+}

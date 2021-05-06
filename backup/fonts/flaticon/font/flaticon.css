@@ -1,8 +1,3 @@
-	/*
-  	Flaticon icon font: Flaticon
-  	Creation date: 04/01/2019 13:45
-  	*/
-
 
 @font-face {
   font-family: "Flaticon";
@@ -36,15 +31,14 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.flaticon-bolsa-de-la-compra:before {
+.flaticon-shopping-bag:before { content: "\f100"; }
+.flaticon-cashback:before { content: "\f102"; }
+.flaticon-free-delivery:before { content: "\f103"; }
+.flaticon-heart:before { content: "\f104"; }
+.flaticon-visibility:before { content: "\f105"; }
+.flaticon-jamn-serrano:before {
   content: "\f101";
 }
 .flaticon-vino:before {
-  content: "\f102";
-}
-.flaticon-jamn-serrano:before {
-  content: "\f103";
-}
-.flaticon-camion:before {
-  content: "\f104";
+  content: "\f106";
 }
